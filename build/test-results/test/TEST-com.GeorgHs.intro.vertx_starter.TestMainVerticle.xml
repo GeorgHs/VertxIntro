@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.GeorgHs.intro.vertx_starter.TestMainVerticle" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-26T21:06:51" hostname="msgn14370" time="0.656">
+  <properties/>
+  <testcase name="verticle_deployed(Vertx, VertxTestContext)" classname="com.GeorgHs.intro.vertx_starter.TestMainVerticle" time="0.656"/>
+  <system-out><![CDATA[HTTP server started on port 8888
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
